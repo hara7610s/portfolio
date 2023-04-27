@@ -5,7 +5,7 @@ html {
 }
 body {
   color: #24292e;
-  font-family: 'Sawarabi Gothic', sans-serif;
+  font-family: 'Segoe UI';
 }
 a {
   text-decoration: none;
@@ -72,10 +72,9 @@ Mainvisual
   margin-bottom: 80px;
 }
 #mainvisual img {
-  width: 100%;
-  max-width: 1920px;
-  height: 420px;
-  object-fit: cover;
+  width: 70%;
+  max-width: 2218px;
+  object-fit: none;
 }
 
 /*-------------------------------------------
