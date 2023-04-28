@@ -23,7 +23,7 @@ li {
   max-width: 960px;
   margin: 0 auto 130px auto;
   font-size: 1.125rem;
-  padding: 0 10%;
+  padding: 0 8%;
 }
 .site-title {
   line-height: 1px;
@@ -45,9 +45,9 @@ li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 270px;
+  height: 130px;
   margin: 0 auto;
-  padding: 0 4%;
+  padding: 0 8%;
 }
 #header ul {
   display: flex;
@@ -71,7 +71,7 @@ li {
 Mainvisual
 -------------------------------------------*/
 #mainvisual {
-  padding: 0 10%;
+  padding: 0 8%;
   max-width: 960px;
   margin: 0 auto 130px auto;
 }
@@ -144,7 +144,7 @@ SP
     flex-direction: column;
   }
   #header li {
-    font-size: 0.8rem;
+    font-size: 1.0rem;
     margin-left: 20px;
   }
   #header li:first-child {
