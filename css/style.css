@@ -73,8 +73,7 @@ Mainvisual
   margin-bottom: 80px;
 }
 #mainvisual img {
-  width: 70%;
-  max-width: 2218px;
+  width: 620px;
   object-fit: none;
 }
 
@@ -113,7 +112,7 @@ Works
 -------------------------------------------*/
 #footer {
   background-color: #ffffff;
-  color: #202020;
+  color: #575757;
   font-size: 0.5rem;
   padding: 10px 20px;
   text-align: center;
