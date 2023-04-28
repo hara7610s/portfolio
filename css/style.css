@@ -26,7 +26,6 @@ li {
 }
 .site-title {
   line-height: 1px;
-  color:inherit;
 }
 .site-title a {
   display: block;
@@ -48,6 +47,7 @@ li {
   height: 100px;
   margin: 0 auto;
   padding: 2% 8%;
+  color:inherit;
 }
 #header ul {
   display: flex;
