@@ -12,7 +12,7 @@ a {
   text-decoration: none;
 }
 img {
-  max-width: 100%;
+  max-width: 500px;
   margin: auto;
 }
 li {
@@ -73,7 +73,6 @@ Mainvisual
 #mainvisual {
   padding: 0 8%;
   max-width: 960px;
-  margin: 0 auto 130px auto;
 }
 #mainvisual img {
   max-width: 100%;
