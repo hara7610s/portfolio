@@ -72,6 +72,8 @@ Mainvisual
 -------------------------------------------*/
 #mainvisual {
   padding: 0 10%;
+  max-width: 960px;
+  margin: 0 auto 130px auto;
 }
 #mainvisual img {
   max-width: 100%;
@@ -88,7 +90,7 @@ About
   margin-bottom: 30px;
 }
 #about p {
-  text-align:justify;
+  text-align:start;
 }
 
 /*-------------------------------------------
@@ -105,7 +107,7 @@ Works
   margin-bottom: 23px;
 }
 #works p {
-  text-align:justify;
+  text-align:start;
 }
 
 /*-------------------------------------------
