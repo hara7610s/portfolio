@@ -34,7 +34,7 @@ li {
 .sec-title {
   font-size: 1.5rem;
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 /*-------------------------------------------
@@ -91,6 +91,7 @@ About
 }
 #about p {
   text-align:start;
+  color:unset;
 }
 
 /*-------------------------------------------
@@ -141,7 +142,7 @@ SP
   #header {
     max-width: 100%;
     height: auto;
-    flex-direction: column;
+    flex-direction: row;
   }
   #header li {
     font-size: 1.0rem;
