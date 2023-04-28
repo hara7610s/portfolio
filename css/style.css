@@ -71,7 +71,7 @@ li {
 Mainvisual
 -------------------------------------------*/
 #mainvisual {
-  margin-bottom: 80px;
+  padding: 0 10%;
 }
 #mainvisual img {
   max-width: 100%;
