@@ -13,6 +13,7 @@ a {
 }
 img {
   max-width: 100%;
+  margin: auto;
 }
 li {
   list-style: none;
@@ -73,8 +74,8 @@ Mainvisual
   margin-bottom: 80px;
 }
 #mainvisual img {
-  width: 620px;
-  object-fit: none;
+  max-width: 100%;
+  object-fit: contain;
 }
 
 /*-------------------------------------------
