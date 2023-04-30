@@ -20,6 +20,7 @@ li {
 hr {
   max-width: 1000px;
   margin-bottom: 16px;
+  align: center;
 }
 
 .wrapper {
@@ -49,6 +50,10 @@ hr {
 
 .sharp {
   max-width: 300px;
+}
+
+.icon {
+  color: #524c4c;
 }
 
 /*-------------------------------------------
