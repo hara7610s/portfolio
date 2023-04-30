@@ -24,10 +24,11 @@ li {
   padding: 0 8%;
 }
 .wrapper h3 {
-  padding: 0.5rem 0;
+  margin-top: 32px;
+  margin-bottom: 18px;
 }
 .wrapper p {
-  padding: 1rem;
+  margin-bottom: 16px;
 }
 .wrapper code {
   font-family: sfmono-regular,menlo,monaco,consolas,"Liberation Mono","Courier New",monospace;
