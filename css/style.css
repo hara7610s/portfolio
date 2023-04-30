@@ -17,6 +17,10 @@ img {
 li {
   list-style: none;
 }
+hr {
+  max-width: 1000px;
+  margin-bottom: 16px;
+}
 
 .wrapper {
   max-width: 960px;
