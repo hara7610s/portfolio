@@ -19,8 +19,9 @@ li {
 }
 
 .wrapper {
+  max-width: 1400px;
   margin: 0 auto 130px auto;
-  padding: 0 8%;
+  padding: 0 4%;
 
   @media screen and (max-width: 768px) {
     font-size: 1.00rem;
