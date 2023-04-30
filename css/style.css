@@ -21,18 +21,19 @@ li {
 .wrapper {
   max-width: 960px;
   margin: 0 auto 130px auto;
-  font-size: 1.125rem;
   padding: 0 8%;
+
+  font-size: calc(100vw * 16 / 375);
+  
+  @media (min-width: 768px) {
+    font-size: calc(100vw * 16 / 768);
+  }
+  
+  @media (min-width: 1240px) {
+    font-size: calc(100vw * 18 / 1240);
+  }
 }
 
-.site-title a {
-  display: block;
-}
-.sec-title {
-  font-size: 1.5rem;
-  text-align: center;
-  margin: 0 0;
-}
 .under { 
   border-bottom: solid 1px #524c4c;
 }
