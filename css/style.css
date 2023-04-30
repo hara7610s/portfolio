@@ -23,6 +23,12 @@ li {
   margin: 0 auto 130px auto;
   padding: 0 8%;
 }
+.wrapper h3 {
+  padding: 0.5rem 0;
+}
+.wrapper p {
+  margin-bottom: 5px;
+}
 .wrapper code {
   font-family: sfmono-regular,menlo,monaco,consolas,"Liberation Mono","Courier New",monospace;
   font-size: 0.875rem;
