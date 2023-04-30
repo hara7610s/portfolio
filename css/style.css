@@ -18,10 +18,10 @@ li {
   list-style: none;
 }
 hr {
-  max-width: 960px;
+  max-width: 850px;
   margin: 0 auto 20px auto;
   text-align: center;
-  color: #d8d8d8;
+  background-color: rgba(26, 26, 26, 0.1);
 }
 
 .wrapper {
