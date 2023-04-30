@@ -23,14 +23,14 @@ li {
   margin: 0 auto 130px auto;
   padding: 0 8%;
 
-  font-size: calc(100vw * 16 / 375);
+  font-size: 1.00rem;
   
   @media (min-width: 768px) {
-    font-size: calc(100vw * 16 / 768);
+    font-size: 1.125rem;
   }
   
   @media (min-width: 1240px) {
-    font-size: calc(100vw * 18 / 1240);
+    font-size: 1.25rem;
   }
 }
 
