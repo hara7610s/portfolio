@@ -18,6 +18,7 @@ li {
   list-style: none;
 }
 hr {
+  max-width: 1000px;
   margin: 0 auto 20px auto;
   text-align: center;
   color: #a7a7a7;
