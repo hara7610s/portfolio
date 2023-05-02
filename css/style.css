@@ -38,6 +38,9 @@ hr {
 .wrapper p {
   margin-bottom: 16px;
 }
+.wrapper p a {
+  color: #423d3d;
+}
 .wrapper code {
   font-family: sfmono-regular,menlo,monaco,consolas,"Liberation Mono","Courier New",monospace;
   font-size: 0.875rem;
